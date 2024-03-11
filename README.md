@@ -11,10 +11,10 @@ You can perform pose estimation on YouTube videos with the use of OpenPose on Go
 1. openpose.ipynbで姿勢推定を行う
 2. 取得した座標値のjsonファイルを、json_to_csv.ipynbでcsvに変更
 
-このコードはhttps://github.com/Shin-sibainu/todoapp-github-flow-tutorial.git ](https://colab.research.google.com/drive/1m0DU-vjjTNWrXMEMqJptQHyp3SXUGbmf?usp=sharing
+このコードはhttps://colab.research.google.com/drive/1m0DU-vjjTNWrXMEMqJptQHyp3SXUGbmf?usp=sharing
 を元に作成しました。<br>
 <br>
   1. Conduct pose estimation by using openpose.ipynb<br>
   2. Convert the acquired coordinate values from the JSON file to CSV using json_to_csv.ipynb.<br>
 
-This code is based on https://github.com/Shin-sibainu/todoapp-github-flow-tutorial.git ](https://colab.research.google.com/drive/1m0DU-vjjTNWrXMEMqJptQHyp3SXUGbmf?usp=sharing <br>
+This code is based on https://colab.research.google.com/drive/1m0DU-vjjTNWrXMEMqJptQHyp3SXUGbmf?usp=sharing <br>
