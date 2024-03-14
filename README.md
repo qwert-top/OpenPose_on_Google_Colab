@@ -1,4 +1,7 @@
 # NMM-recognition-with-OpenPose
+ソースコードの内容は、Qiitaに投稿した以下の記事で一部説明しています。<br>
+The source code is partially explained in the following article posted on Qitta (in Japanese).<br>
+https://qiita.com/qwert-top/items/aa2f385b04de7b702c25
 
 ## 背景/background
 大学3年の秋学期に行った研究の一部です。<br>
@@ -10,7 +13,7 @@ You can perform pose estimation on YouTube videos with the use of OpenPose on Go
 ## 方法/How to use  
 1. model.zipをダウンロートする
 2. openpose.ipynbで姿勢推定を行う
-3. 取得した座標値のjsonファイルを、json_to_csv.ipynbでcsvに変更
+3. 取得した座標値のjsonファイルを、json_to_csv.ipynbでcsvに変換
 
 このコードはhttps://colab.research.google.com/drive/1m0DU-vjjTNWrXMEMqJptQHyp3SXUGbmf?usp=sharing
 を元に作成しました。<br>
