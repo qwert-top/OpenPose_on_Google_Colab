@@ -1,13 +1,11 @@
-# NMM-recognition-with-OpenPose
+# OpenPose_on_Google_Colab
 ソースコードの内容は、Qiitaに投稿した以下の記事で一部説明しています。<br>
 The source code is partially explained in the following article posted on Qitta (in Japanese).<br>
 https://qiita.com/qwert-top/items/aa2f385b04de7b702c25
 
 ## 背景/background
-大学3年の秋学期に行った研究の一部です。<br>
 Google Colaboratory上でOpenPoseを使って、YouTube動画の姿勢推定を行うことができます。<br>
 <br>
-This is a part of a research which I conducted during the fall semester of my third year at university. <br>
 You can perform pose estimation on YouTube videos with the use of OpenPose on Google Colaboratory. <br>
 
 ## 方法/How to use  
